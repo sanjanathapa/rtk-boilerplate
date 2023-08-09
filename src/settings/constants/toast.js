@@ -1,0 +1,1 @@
+export const TOAST_DISMISS_TIMEOUT = 4000 // 4 seconds
